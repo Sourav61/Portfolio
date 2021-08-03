@@ -275,6 +275,7 @@ section .title::after{
     width: calc(33% - 20px);
     background: #222;
     text-align: center;
+    height: 350px;
     border-radius: 6px;
     padding: 50px 25px;
     cursor: pointer;
@@ -386,6 +387,7 @@ section .title::after{
     background: #222;
     border-radius: 6px;
     padding: 25px 35px;
+    height: 500px;
     text-align: center;
     overflow: hidden;
     transition: all 0.3s ease;
@@ -678,4 +680,8 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+}
+
+.hood {
+  font-weight: normal !important;
 }
