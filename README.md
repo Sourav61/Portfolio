@@ -2,7 +2,7 @@
 
 Check it out here --> <a href="https://sourav61.github.io/Portfolio/" target="_blank" rel="noopener">Click Here</a>
 
-<h4>OR</h4>
+<p align="center">OR</p>
 
 Check out Deployed version on Heroku here: https://personal-portfolio-sp.herokuapp.com/
 
