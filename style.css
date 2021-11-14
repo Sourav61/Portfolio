@@ -628,6 +628,11 @@ section .title::after {
   transition: all 0.3s ease;
 }
 
+.right form .button-area button:hover {
+  color: crimson;
+  background: none;
+}
+
 .right form .button-area button a:hover {
   color: crimson;
   background: none;
