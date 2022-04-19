@@ -661,6 +661,9 @@ footer span a:hover {
     height: 350px;
     width: 350px;
   }
+  .description{
+    font-size: 0.9rem;
+  }
 }
 
 @media (max-width: 991px) {
