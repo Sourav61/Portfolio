@@ -666,6 +666,12 @@ footer span a:hover {
   }
 }
 
+@media (max-width: 1025px) {
+  .description{
+    font-size: 0.9rem !important;
+  }
+}
+
 @media (max-width: 991px) {
   .max-width {
     padding: 0 50px;
