@@ -4,6 +4,6 @@ Check it out here --> <a href="https://sourav61.github.io/Portfolio/" target="_b
 
 <p align="center">OR</p>
 
-Check out Deployed version on Heroku here: https://personal-portfolio-sp.herokuapp.com/
+Check out Deployed version on Heroku here: https://personal-portfoliosp.herokuapp.com/
 
 It is made taking reference from this amazing video : <a href="https://youtu.be/tcskp-ncN0I">Visit Here</a>
